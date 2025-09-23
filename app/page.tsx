@@ -62,7 +62,7 @@ export default function HomePage() {
         <div className="rounded-lg border p-6">
           <h3 className="font-semibold">Success Story: Paradox Innovator Pvt. Ltd.</h3>
           <p className="text-sm text-muted-foreground mt-2">
-            A student tech group nurtured at the Heritage Incubation Shell, now a registered startup with achievements
+            A student tech group nurtured at the Heritage Incubation Cell, now a registered startup with achievements
             including winning SIH 2024. Focus areas: R&amp;D, product design, PCB design, and 3D modeling/printing.
           </p>
           <div className="mt-3 text-sm">

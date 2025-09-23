@@ -13,7 +13,7 @@ export default function PreIncubationPage() {
           ANNEXURE 3: Pre‑Incubation Unit at Heritage Institute of Technology
         </h1>
         <p className="text-muted-foreground mt-3 text-pretty">
-          The Pre‑Incubation Unit (Heritage Incubation Shell) supports students in transforming validated ideas into
+          The Pre‑Incubation Unit (Heritage Incubation Cell) supports students in transforming validated ideas into
           tangible prototypes and pilot‑ready solutions with structured guidance and resources.
         </p>
 
@@ -70,7 +70,7 @@ export default function PreIncubationPage() {
           <h2 className="text-xl font-semibold">How to Apply</h2>
           <p className="text-sm text-muted-foreground mt-2">
             Prepare a brief proposal (problem, solution, team, expected outcomes, timeline) and submit via the
-            Incubation Shell.
+            Incubation Cell.
           </p>
         </div>
         <MediaGallery />

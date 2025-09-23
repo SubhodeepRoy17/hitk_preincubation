@@ -3,7 +3,7 @@ export function SiteFooter() {
     <footer className="border-t mt-12">
       <div className="mx-auto max-w-6xl px-4 py-8 grid gap-6 md:grid-cols-3">
         <div>
-          <h3 className="font-semibold">Heritage Incubation Shell</h3>
+          <h3 className="font-semibold">Heritage Incubation Cell</h3>
           <p className="text-sm text-muted-foreground mt-2">
             Pre‑Incubation Centre at Heritage Institute of Technology. Enabling students to transform ideas into
             ventures.
@@ -34,13 +34,13 @@ export function SiteFooter() {
           <p className="text-sm mt-2">
             Heritage Institute of Technology
             <br />
-            Incubation Shell, Kolkata, India
+            Incubation Cell, Kolkata, India
           </p>
           <p className="text-sm mt-2">General inquiries: incubation@heritageit.edu (placeholder)</p>
         </div>
       </div>
       <div className="text-center text-xs text-muted-foreground py-4 border-t">
-        © {new Date().getFullYear()} Heritage Incubation Shell. All rights reserved.
+        © {new Date().getFullYear()} Heritage Incubation Cell. All rights reserved.
       </div>
     </footer>
   )

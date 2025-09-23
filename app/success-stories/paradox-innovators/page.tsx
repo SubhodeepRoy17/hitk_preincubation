@@ -8,11 +8,11 @@ export default function ParadoxStoryPage() {
       <SiteHeader />
       <section className="mx-auto max-w-6xl px-4 py-12 md:py-16">
         <h1 className="text-3xl font-semibold text-balance">
-          Paradox Innovator Pvt. Ltd. – A Success Story Nurtured at Heritage Incubation Shell
+          Paradox Innovator Pvt. Ltd. – A Success Story Nurtured at Heritage Incubation Cell
         </h1>
         <p className="text-muted-foreground mt-3 text-pretty">
           Paradox Innovator began as a college tech group representing Heritage Institute of Technology at technical
-          events nationwide. Supported by the Heritage Incubation Shell with guidance, mentorship, and resources, the
+          events nationwide. Supported by the Heritage Incubation Cell with guidance, mentorship, and resources, the
           team won multiple accolades including the Smart India Hackathon (SIH) 2024 and later registered as a private
           limited company.
         </p>
@@ -70,7 +70,7 @@ export default function ParadoxStoryPage() {
           <h2 className="text-xl font-semibold">Testimonial Highlight</h2>
           <p className="text-sm text-muted-foreground mt-2 text-pretty">
             "Our journey from a student tech team to a registered startup was made possible by the continuous support of
-            the Heritage Incubation Shell. The center provided mentorship and resources that shaped our projects and
+            the Heritage Incubation Cell. The center provided mentorship and resources that shaped our projects and
             fueled our innovation."
           </p>
         </div>

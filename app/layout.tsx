@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Heritage Incubation Shell",
+  title: "Heritage Incubation Cell",
   description:
     "Pre‑Incubation Centre at Heritage Institute of Technology – programs, innovations, and success stories.",
   generator: "v0.app",
