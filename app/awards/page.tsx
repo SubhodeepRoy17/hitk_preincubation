@@ -42,7 +42,7 @@ export default function AwardsPage() {
           
           <div className="rounded-lg overflow-hidden border shadow-lg">
             <img
-              src="/images/team-drone.jpg"
+              src="/images/winner.jpg"
               alt="Winning team with drone and demo setup for Smart Bengal Hackathon 2025"
               className="w-full h-auto object-cover max-h-[500px] md:max-h-[600px]"
             />
