@@ -88,18 +88,6 @@ export function PageHero() {
             </button>
           </div>
         </div>
-
-        {/* CTA Buttons */}
-        <div className="text-center mt-8">
-          <div className="flex flex-wrap justify-center gap-4">
-            <Button asChild className="bg-primary text-primary-foreground px-8 py-3">
-              <Link href="/innovations/jawaan">Explore JAWAAN</Link>
-            </Button>
-            <Button asChild variant="outline" className="px-8 py-3">
-              <Link href="/success-stories/paradox-innovators">Success Stories</Link>
-            </Button>
-          </div>
-        </div>
       </div>
     </section>
   )

@@ -30,7 +30,7 @@ export default function AboutPage() {
             <ul className="grid gap-3 text-sm md:text-base bg-muted/30 p-4 md:p-6 rounded-lg">
               <li className="flex items-start">
                 <strong className="min-w-[80px] md:min-w-[100px]">Location:</strong>
-                <span className="ml-2">CME 614</span>
+                <span className="ml-2">CME 617</span>
               </li>
               <li className="flex items-start">
                 <strong className="min-w-[80px] md:min-w-[100px]">Focus:</strong>

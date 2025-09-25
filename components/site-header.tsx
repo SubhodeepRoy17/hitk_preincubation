@@ -13,6 +13,7 @@ const nav = [
   { href: "/about", label: "About" },
   { href: "/awards", label: "Awards" },
   { href: "/success-stories/paradox-innovators", label: "Success Stories" },
+  { href: "/media", label: "Media" }
 ]
 
 export function SiteHeader() {
@@ -25,17 +26,17 @@ export function SiteHeader() {
           <Image 
             src="/images/logo.jpg" 
             alt="Heritage Incubation Cell Logo"
-            width={80}
-            height={80}
-            className="h-20 w-20 object-contain"
+            width={120}
+            height={120}
+            className="h-28 w-28 object-contain"
           />
-          <span className="text-2xl font-bold text-primary text-center">Pre-Incubation Cell</span>
+          <span className="text-3xl font-bold text-primary text-center">Heritage Institute of Technology</span>
           <Image 
             src="/images/logo1.jpg" 
             alt="Partner Logo"
-            width={80}
-            height={80}
-            className="h-20 w-20 object-contain"
+            width={120}
+            height={120}
+            className="h-28 w-28 object-contain"
           />
         </div>
       </div>

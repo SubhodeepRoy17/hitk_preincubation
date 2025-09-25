@@ -9,8 +9,8 @@ export default function PreIncubationPage() {
     <main>
       <SiteHeader />
       <section className="mx-auto max-w-6xl px-4 py-12 md:py-16">
-        <h1 className="text-3xl font-semibold text-balance">
-          ANNEXURE 3: Pre‑Incubation Unit at Heritage Institute of Technology
+        <h1 className="text-3xl md:text-4xl font-semibold text-balance text-center">
+          Pre‑Incubation Centre
         </h1>
         <p className="text-muted-foreground mt-3 text-pretty">
           The Pre‑Incubation Unit (Heritage Incubation Cell) supports students in transforming validated ideas into

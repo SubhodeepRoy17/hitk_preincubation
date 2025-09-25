@@ -6,11 +6,56 @@ export default function AwardsPage() {
     <main className="min-h-screen flex flex-col">
       <SiteHeader />  
       <div className="flex-1 mx-auto max-w-6xl w-full px-4 py-8 md:py-12">
-        <header className="mb-8 md:mb-12 text-center md:text-left">
+        <header className="mb-8 md:mb-12 text-center">
           <h1 className="text-3xl md:text-4xl font-semibold text-balance">Awards & Recognitions</h1>
-          <p className="mt-3 text-muted-foreground text-lg max-w-3xl">Celebrating our teams' achievements.</p>
+          <p className="mt-3 text-muted-foreground text-lg max-w-3xl mx-auto">Celebrating our teams' achievements.</p>
         </header>
 
+        {/* Smart India Hackathon 2024 */}
+        <section aria-labelledby="sih-2024" className="grid gap-8 md:grid-cols-2 md:gap-12 items-center mb-16">
+          <div className="space-y-6">
+            <div>
+              <h2 id="sih-2024" className="text-2xl md:text-3xl font-semibold text-primary">
+                Smart India Hackathon 2024 — Winners
+              </h2>
+              <p className="mt-4 text-pretty leading-relaxed text-base md:text-lg">
+                Paradox Innovator team won the prestigious Smart India Hackathon 2024 for their innovative 
+                "Smart Earthing Monitoring System". This groundbreaking solution addresses critical public safety 
+                issues by preventing electrocution deaths from faulty streetlights through real-time monitoring 
+                and instant fault detection.
+              </p>
+            </div>
+            
+            <ul className="text-sm md:text-base grid gap-3 bg-muted/30 p-4 md:p-6 rounded-lg">
+              <li className="flex items-start">
+                <strong className="min-w-[80px] md:min-w-[100px]">Project:</strong>
+                <span className="ml-2">Smart Earthing Monitoring System</span>
+              </li>
+              <li className="flex items-start">
+                <strong className="min-w-[80px] md:min-w-[100px]">Team:</strong>
+                <span className="ml-2">Paradox Innovator</span>
+              </li>
+              <li className="flex items-start">
+                <strong className="min-w-[80px] md:min-w-[100px]">Theme:</strong>
+                <span className="ml-2">Renewable Energy & Smart Cities</span>
+              </li>
+              <li className="flex items-start">
+                <strong className="min-w-[80px] md:min-w-[100px]">Recognition:</strong>
+                <span className="ml-2">National-level winner</span>
+              </li>
+            </ul>
+          </div>
+          
+          <div className="rounded-lg overflow-hidden border shadow-lg">
+            <img
+              src="/images/winner2.jpg"
+              alt="Paradox Innovator team winning Smart India Hackathon 2024"
+              className="w-full h-auto object-cover max-h-[500px] md:max-h-[600px]"
+            />
+          </div>
+        </section>
+
+        {/* Smart Bengal Hackathon 2025 */}
         <section aria-labelledby="sbh-2025" className="grid gap-8 md:grid-cols-2 md:gap-12 items-center">
           <div className="space-y-6">
             <div>
