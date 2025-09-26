@@ -133,7 +133,7 @@ export default function MediaGalleryPage() {
               <p className="text-primary-foreground/80">National Awards</p>
             </div>
             <div>
-              <div className="text-3xl md:text-4xl font-bold mb-2">50+</div>
+              <div className="text-3xl md:text-4xl font-bold mb-2">3</div>
               <p className="text-primary-foreground/80">Innovation Projects</p>
             </div>
             <div>
